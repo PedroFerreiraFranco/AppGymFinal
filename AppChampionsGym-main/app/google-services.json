@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619727575423",
+    "project_id": "academia-2fbaf",
+    "storage_bucket": "academia-2fbaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619727575423:android:d5daa2035b8f012b7ea24a",
+        "android_client_info": {
+          "package_name": "br.edu.ifsuldeminas.mch.championsgym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1fLPgV2cVjzLqnfJ1ffeDr1sjedEfftY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

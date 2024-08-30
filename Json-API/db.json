@@ -1,0 +1,53 @@
+{
+  "chests": [
+    {
+      "id": 1,
+      "title": "Supino Reto",
+      "description": "Exercício de peito onde você levanta uma barra enquanto está deitado em um banco reto.",
+      "series": "4 séries",
+      "repetitions": "8-12 repetições"
+    },
+    {
+      "id": 2,
+      "title": "Supino Inclinado",
+      "description": "Exercício de peito onde você levanta uma barra enquanto está deitado em um banco inclinado.",
+      "series": "4 séries",
+      "repetitions": "8-12 repetições"
+    },
+    {
+      "id": 3,
+      "title": "Crucifixo com Halteres",
+      "description": "Exercício de peito onde você abre e fecha os braços segurando halteres, deitado em um banco.",
+      "series": "3 séries",
+      "repetitions": "10-15 repetições"
+    },
+    {
+      "id": 4,
+      "title": "Peck Deck",
+      "description": "Exercício de peito realizado em uma máquina, onde você junta os braços em frente ao corpo.",
+      "series": "3 séries",
+      "repetitions": "10-15 repetições"
+    },
+    {
+      "id": 5,
+      "title": "Flexões de Braço",
+      "description": "Exercício de peito e tríceps onde você levanta e abaixa o corpo mantendo as mãos no chão.",
+      "series": "4 séries",
+      "repetitions": "15-20 repetições"
+    },
+    {
+      "id": 6,
+      "title": "Crossover na Polia",
+      "description": "Exercício de peito onde você puxa cabos de polia cruzando as mãos em frente ao corpo.",
+      "series": "4 séries",
+      "repetitions": "10-15 repetições"
+    },
+    {
+      "id": 7,
+      "title": "Supino com Halteres",
+      "description": "Exercício de peito onde você levanta halteres enquanto está deitado em um banco.",
+      "series": "4 séries",
+      "repetitions": "8-12 repetições"
+    }
+  ]
+}

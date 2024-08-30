@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ChampionsGym" parent="Theme.MaterialComponents.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimaryVariant">@color/black</item>
+    </style>
+
+    <style name="Theme.ChampionsGym" parent="Base.Theme.ChampionsGym" />
+</resources>
